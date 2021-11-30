@@ -1,4 +1,4 @@
-### Flutter Interactive Widgets
+### Flutter Interactive Widgets : 
 This application covers following concepts,
 1. Gesture-based Widgets
 2. Time Picker
@@ -7,4 +7,4 @@ This application covers following concepts,
 5. Dismissable Widgets
 6. Provider etc.
 
-### User Interface
+### User Interface :
